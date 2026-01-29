@@ -1,6 +1,4 @@
-# Lucas Bennett
-
-## About Me
+# About Me
 I am a Computer Science student at the University of Oregon with experience in Java, C++, C, and TypeScript. I focus on building practical, scalable software at the intersection of AI, construction, and real estate.
 
 Alongside my academic work, I am a licensed General Contractor and the founder of **Bennett Remodeling Solutions LLC**, where I lead residential remodeling projects from design through execution. I also founded **QuoteVisionAI**, an AI-powered platform designed to modernize construction estimating, visualization, and project scoping.
