@@ -20,7 +20,7 @@ My goal is to bridge the gap between physical construction workflows and intelli
 
 ## Projects
 ### Bennett Remodeling Solutions LLC
-Residential kitchen and bathroom remodeling company focused on quality execution and client experience.
+Residential kitchen and bathroom remodeling company operating up until the end of highschool. 
 
 ### QuoteVisionAI
 AI-driven construction software for estimating, scope generation, and visualization. Built to connect real-world building data with modern AI workflows.
